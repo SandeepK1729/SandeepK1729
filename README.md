@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Konda Sandeep
+# I'm Sandeep
 
 ## 🚀 About Me
 I'm a full stack developer...
