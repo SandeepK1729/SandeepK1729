@@ -14,7 +14,6 @@ I'm a full stack developer...
 
 📫 How to reach me... my contact `8978442360`
 
-😄 Nickname... Chanakya
 
 
 
