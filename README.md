@@ -23,7 +23,7 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 ### Frontend
-- HTML, CSS, HTMX, Bootstrap, JS, hyoerscript, ReactJS
+- HTML, CSS, HTMX, Bootstrap, JS, hyperscript, ReactJS
 ### Backend
 - Django, Flask, NodeJS, Express JS
 ### Databases
