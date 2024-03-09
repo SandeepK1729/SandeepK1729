@@ -8,7 +8,7 @@ I'm a full stack developer...
 
 👩‍💻 I'm currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderbad
 
-🧠 I'm currently learning HTMX & hyperscript
+🧠 I'm currently learning Next JS & redux
 
 💬 Ask me about...
 
